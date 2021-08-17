@@ -1,3 +1,5 @@
+package Array;
+
 public class KadaneAlgo {
     public static void main(String[] args) {
         var arr = new int[] { -2, -3, 4, -1, -2, 1, 5, -3 };
