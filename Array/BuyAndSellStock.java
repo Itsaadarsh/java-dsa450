@@ -2,7 +2,7 @@ package Array;
 
 public class BuyAndSellStock {
     public static void main(String[] args) {
-        var list = new int[] { 7, 1, 5, 3, 6, 4 };
+        var list = new int[] { 1, 2, 5, 3, 6, 4 };
         var op = maxProfitOnePass(list);
         System.out.println(op);
     }
